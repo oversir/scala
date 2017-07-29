@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0m[32mBarnesHutSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Empty: center of mass should be the center of the cell[0m[0m
+[0m[[0minfo[0m] [0m[32m- Empty: mass should be 0[0m[0m
+[0m[[0minfo[0m] [0m[32m- Empty: total should be 0[0m[0m
+[0m[[0minfo[0m] [0m[32m- Leaf with 1 body[0m[0m
+[0m[[0minfo[0m] [0m[32m- Fork with 3 empty quadrants and 1 leaf (nw)[0m[0m
+[0m[[0minfo[0m] [0m[32m- Fork with 4 empty quadrants[0m[0m
+[0m[[0minfo[0m] [0m[32m- Empty.insert(b) should return a Leaf with only that body[0m[0m
+[0m[[0minfo[0m] [0m[32m- Leaf.insert(b) should return a new Fork if size > minimumSize[0m[0m
+[0m[[0minfo[0m] [0m[32m- Body.updated should do nothing for Empty quad trees[0m[0m
+[0m[[0minfo[0m] [0m[32m- Body.updated should take bodies in a Leaf into account[0m[0m
+[0m[[0minfo[0m] [0m[32m- 'SectorMatrix.+=' should add a body at (25,47) to the correct bucket of a sector matrix of size 96[0m[0m

@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mParallelCountChangeSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- countChange should return 0 for money < 0[0m[0m
+[0m[[0minfo[0m] [0m[32m- countChange should return 1 when money == 0[0m[0m
+[0m[[0minfo[0m] [0m[32m- countChange should return 0 for money > 0 and coins = List()[0m[0m
+[0m[[0minfo[0m] [0m[32m- countChange should work when there is only one coin[0m[0m
+[0m[[0minfo[0m] [0m[32m- countChange should work for multi-coins[0m[0m
+[0m[[0minfo[0m] [0m[32m- parCountChange should return same result as countChange[0m[0m

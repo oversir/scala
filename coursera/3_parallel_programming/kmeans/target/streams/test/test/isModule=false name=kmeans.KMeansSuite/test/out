@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mKMeansSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- 'classify should work for empty 'points' and empty 'means'[0m[0m
+[0m[[0minfo[0m] [0m[32m- 'classify' should work for empty 'points' and 'means' == GenSeq(Point(1,1,1))[0m[0m
+[0m[[0minfo[0m] [0m[32m- 'classify' should work for 'points' == GenSeq((1, 1, 0), (1, -1, 0), (-1, 1, 0), (-1, -1, 0)) and 'means' == GenSeq((0, 0, 0))[0m[0m
+[0m[[0minfo[0m] [0m[32m- 'classify' should work for 'points' == GenSeq((1, 1, 0), (1, -1, 0), (-1, 1, 0), (-1, -1, 0)) and 'means' == GenSeq((1, 0, 0), (-1, 0, 0))[0m[0m
+[0m[[0minfo[0m] [0m[32m- 'classify' with data parallelism should work for empty 'points' and empty 'means'[0m[0m
+[0m[[0minfo[0m] [0m[32m- 'converged' should succeed or fail for various eta's[0m[0m
+[0m[[0minfo[0m] [0m[31m- 'kMeans' should work for 'points' == GenSeq((0, 0, 1), (0, 0, -1), (0, 1, 0), (0, 10, 0)) and 'oldMeans' == GenSeq((0, -1, 0), (0, 2, 0)) and 'eta' == 12.25 *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  Vector((0.0, 0.0, 0.0), (0.0, 5.5, 0.0)) did not equal Vector((0.0, 0.0, 0.0), (0.0, 5.5, 0.0)) (KMeansSuite.scala:28)[0m[0m

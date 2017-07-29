@@ -1,0 +1,201 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/user/Downloads/scala1/recfun/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+9 items
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> /home/user/Downloads/scala1/recfun/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> /home/user/Downloads/scala1/recfun/target/scala-2.11/classes/common/package$.class
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> /home/user/Downloads/scala1/recfun/target/scala-2.11/classes/common/package.class
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> /home/user/Downloads/scala1/recfun/target/scala-2.11/classes/recfun/Main$$anonfun$1.class
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> /home/user/Downloads/scala1/recfun/target/scala-2.11/classes/recfun/Main$$anonfun$choose$1.class
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> /home/user/Downloads/scala1/recfun/target/scala-2.11/classes/recfun/Main$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> /home/user/Downloads/scala1/recfun/target/scala-2.11/classes/recfun/Main$$anonfun$main$1.class
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> /home/user/Downloads/scala1/recfun/target/scala-2.11/classes/recfun/Main$.class
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> /home/user/Downloads/scala1/recfun/target/scala-2.11/classes/recfun/Main.class
+binary dependencies:
+4 items
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> /home/user/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> /home/user/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+9 items
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> common.package
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> common.package$
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> recfun.Main
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> recfun.Main$
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> recfun.Main$$anonfun$1
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> recfun.Main$$anonfun$choose$1
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> recfun.Main$$anonfun$main$1
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> recfun.Main$$anonfun$main$1$$anonfun$apply$mcVI$sp$1
+used names:
+90 items
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> ::
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> <init>
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> <repeated>
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> Any
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> AnyRef
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> File
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> FileInputStream
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> InputStream
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> List
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> None
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> Nothing
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> Option
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> Predef
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> String
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> _root_
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> child
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> children
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> classesDir
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> common
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> exists
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> file
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> foldLeft
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> getClass
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> getParentFile
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> getResource
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> io
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> java
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> package
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> projectDir
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> resourceFile
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> resourcePath
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> scala
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> subFile
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> toURI
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> &&
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> *
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> +
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> -
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> /
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> <
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> <init>
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> ==
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> >
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> AnyRef
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> Array
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> Boolean
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> Char
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> Int
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> List
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> Main
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> Predef
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> String
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> Unit
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> _1
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> _2
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> balance
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> c
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> ch
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> chars
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> choose
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> coins
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> col
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> countChange
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> filter
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> foreach
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> head
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> i
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> intWrapper
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> isEmpty
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> k
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> left
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> money
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> n
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> ne
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> open
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> package
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> parens
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> pascal
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> print
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> println
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> r
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> recfun
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> result
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> right
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> row
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> scala
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> tail
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> to
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> unchecked
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> ||
+product stamps:
+9 items
+/home/user/Downloads/scala1/recfun/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1465487924000)
+/home/user/Downloads/scala1/recfun/target/scala-2.11/classes/common/package$.class -> lastModified(1465487924000)
+/home/user/Downloads/scala1/recfun/target/scala-2.11/classes/common/package.class -> lastModified(1465487924000)
+/home/user/Downloads/scala1/recfun/target/scala-2.11/classes/recfun/Main$$anonfun$1.class -> lastModified(1472577694000)
+/home/user/Downloads/scala1/recfun/target/scala-2.11/classes/recfun/Main$$anonfun$choose$1.class -> lastModified(1472577694000)
+/home/user/Downloads/scala1/recfun/target/scala-2.11/classes/recfun/Main$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1472577694000)
+/home/user/Downloads/scala1/recfun/target/scala-2.11/classes/recfun/Main$$anonfun$main$1.class -> lastModified(1472577694000)
+/home/user/Downloads/scala1/recfun/target/scala-2.11/classes/recfun/Main$.class -> lastModified(1472577694000)
+/home/user/Downloads/scala1/recfun/target/scala-2.11/classes/recfun/Main.class -> lastModified(1472577694000)
+source stamps:
+2 items
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> hash(08ab351b53153f36143f39b6c7e5464ee54c75d4)
+binary stamps:
+2 items
+/home/user/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1438617791000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1445465910000)
+class names:
+2 items
+/home/user/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.collection.immutable.List
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+2 items
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFVNeL1QnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADwvaG9tZS91c2VyL0Rvd25sb2Fkcy9zY2FsYTEvcmVjZnVuL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSIW48SpbKoPa1lj3bMH91nijjUqA==
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAG8H2nAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAtn3C50AAZub3RpZnlzcQB+AAzF0u8UdAAGY2hvb3Nlc3EAfgAMAgZcLXQABHdhaXRzcQB+AAyt2UKTdAANJGFzSW5zdGFuY2VPZnNxAH4ADNWVekJ0AAZlcXVhbHNzcQB+AAyFmvQedAAMYXNJbnN0YW5jZU9mc3EAfgAMIYdf9HQADHN5bmNocm9uaXplZHNxAH4ADLf8MT50AA0kaXNJbnN0YW5jZU9mc3EAfgAMNLe8rXQABnBhc2NhbHNxAH4ADEBlM590AAdiYWxhbmNlc3EAfgAMwpj1cHQABG1haW5zcQB+AAzo0FJRdAAJbm90aWZ5QWxsc3EAfgAMS6KCEHQADGlzSW5zdGFuY2VPZnNxAH4ADPxJofB0AAI9PXNxAH4ADPZg+Pd0AAVjbG9uZXNxAH4ADNRBC8V0AARNYWluc3EAfgAMLP4mmHQACHRvU3RyaW5nc3EAfgAMcZ4QpHQAAiE9c3EAfgAMyXJ9CHQACGdldENsYXNzc3EAfgAMBxRK2HQAC2NvdW50Q2hhbmdlc3EAfgAMaajzO3QAAm5lc3EAfgAMCCHb0nQAAmVxc3EAfgAMuxcoC3QAAiMjc3EAfgAMU330AnQACGZpbmFsaXplc3EAfgAMPYaakHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAC3JlY2Z1bi5NYWludXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBhAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGhzcQB+AGEBdXEAfgBEAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBKcQB+AFN1cQB+AFQAAAAAc3EAfgBWAHEAfgAjdXEAfgBZAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBnc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCDdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AcHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AXHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ad1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AZ3NxAH4AdnQABUFycmF5cQB+AHx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AdnQABlN0cmluZ3NxAH4AenNxAH4AfXVxAH4AgAAAAANzcQB+AIJ0AARqYXZhc3EAfgCCdAAEbGFuZ3EAfgCHcHNxAH4AYQF1cQB+AEQAAAAAcHNxAH4AYQF1cQB+AJsAAAACc3EAfgB2dAAGT2JqZWN0cQB+AJ9zcQB+AHZ0AANBbnlxAH4AfHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGcmVjZnVuc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFW3HhnAXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADwvaG9tZS91c2VyL0Rvd25sb2Fkcy9zY2FsYTEvcmVjZnVuL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQIqzUbUxU/NhQ/ObbH5UZO5Ux11A==
+external apis:
+0 items
+source infos:
+2 items
+/home/user/Downloads/scala1/recfun/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/home/user/Downloads/scala1/recfun/src/main/scala/recfun/Main.scala -> 
+AAAAAAAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVTXi9UJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL3VzZXIvRG93bmxvYWRzL3NjYWxhMS9yZWNmdW4vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVTaOTtl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL3VzZXIvRG93bmxvYWRzL3NjYWxhMS9yZWNmdW4vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVTaRc1F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL3VzZXIvRG93bmxvYWRzL3NjYWxhMS9yZWNmdW4vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtx1oaV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL3VzZXIvRG93bmxvYWRzL3NjYWxhMS9yZWNmdW4vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtx4ZwF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL3VzZXIvRG93bmxvYWRzL3NjYWxhMS9yZWNmdW4vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

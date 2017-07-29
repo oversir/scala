@@ -1,0 +1,17 @@
+test
+compile
+test
+compile
+test
+submit rudolf.schmiedlin@gmail.com SQThU6FSy3QLmqZd
+test
+:quit
+exit
+test -feature
+set scalaOptions in ThisBuild ++= Seq("-feature")
+set scalacOptions += "-feature"
+scalacOptions
+test
+exit
+test
+submit rudolf.schmiedlin@gmail.com SQThU6FSy3QLmqZd

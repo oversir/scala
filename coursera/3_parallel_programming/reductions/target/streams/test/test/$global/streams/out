@@ -1,0 +1,12 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(reductions.ParallelParenthesesBalancingSuite, org.scalatest.tools.Framework$$anon$1@30eb2c39, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(reductions.LineOfSightSuite, org.scalatest.tools.Framework$$anon$1@30eb2c39, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(reductions.ParallelCountChangeSuite, org.scalatest.tools.Framework$$anon$1@30eb2c39, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 835 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 15[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 15, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	reductions.LineOfSightSuite[0m
+[0m[[0mdebug[0m] [0m	reductions.ParallelCountChangeSuite[0m
+[0m[[0mdebug[0m] [0m	reductions.ParallelParenthesesBalancingSuite[0m

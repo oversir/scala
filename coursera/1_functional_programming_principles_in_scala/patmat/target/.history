@@ -1,0 +1,21 @@
+test
+shell
+val t1 = Fork(Leaf('a',2), Leaf('b',3), List('a','b'), 5)
+exit
+scala
+console
+test
+console
+test
+console
+reload
+compile
+console
+:history
+:quit
+quit
+exit
+console
+text
+test
+submit rudolf.schmiedlin@gmail.com XPzLOKGSYayMzsNX

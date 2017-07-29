@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m+ Heap.gen1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min of 2 heaps melded to new heap and deleted is equal to old heap: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.delete has same effect on composition of 2 heaps: OK, passed 100 tests.[0m

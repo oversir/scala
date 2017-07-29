@@ -1,0 +1,22 @@
+console
+:quit
+exit
+runMain reductions.ParallelCountChangeRunner
+last compile:runMain
+exit
+runMain reductions.ParallelCountChangeRunner
+runMain reductions.ParallelParenthesesBalancingRunner
+test
+console
+test
+runMain reductions.ParallelParenthesesBalancingRunner
+test
+runMain reductions.ParallelParenthesesBalancingRunner
+test
+runMain reductions.LineOfSightRunner
+submit 
+submit rudolf.schmiedlin@gmail.com RP4f2BRJSIU3P3Je
+test
+submit rudolf.schmiedlin@gmail.com RP4f2BRJSIU3P3Je
+test
+submit rudolf.schmiedlin@gmail.com RP4f2BRJSIU3P3Je

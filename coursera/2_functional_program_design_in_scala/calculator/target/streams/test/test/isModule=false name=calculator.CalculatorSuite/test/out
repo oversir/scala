@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mCalculatorSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- tweetRemainingCharsCount with a constant signal[0m[0m
+[0m[[0minfo[0m] [0m[32m- tweetRemainingCharsCount with a supplementary char[0m[0m
+[0m[[0minfo[0m] [0m[32m- colorForRemainingCharsCount with a constant signal[0m[0m
+[0m[[0minfo[0m] [0m[32m- calculator should eval literal[0m[0m
+[0m[[0minfo[0m] [0m[32m- calculator should eval reference[0m[0m
+[0m[[0minfo[0m] [0m[32m- calculator should eval addition[0m[0m
+[0m[[0minfo[0m] [0m[32m- calculator should eval subtraction[0m[0m
+[0m[[0minfo[0m] [0m[32m- calculator should eval multiplication[0m[0m
+[0m[[0minfo[0m] [0m[32m- calculator should eval division[0m[0m
+[0m[[0minfo[0m] [0m[32m- calculator should intercept infinte loop[0m[0m
+[0m[[0minfo[0m] [0m[32m- calculator should compute value[0m[0m
+[0m[[0minfo[0m] [0m[32m- calculator should compute values[0m[0m
+[0m[[0minfo[0m] [0m[32m- calculator should update values[0m[0m
+[0m[[0minfo[0m] [0m[32m- calculator should sort values[0m[0m

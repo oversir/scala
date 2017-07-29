@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mParallelParenthesesBalancingSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- balance should work for empty string[0m[0m
+[0m[[0minfo[0m] [0m[32m- balance should work for string of length 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- balance should work for string of length 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- parBalance should return same result as balance[0m[0m
